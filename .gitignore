@@ -1,0 +1,16 @@
+.vscode
+
+/node_modules
+
+/.next/
+
+/out/
+/build
+
+yarn-debug.log*
+yarn-error.log*
+
+.env*.local
+
+*.tsbuildinfo
+next-env.d.ts
